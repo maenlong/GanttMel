@@ -1,0 +1,23 @@
+<UI version="4.0" >
+ <class>GanttCanvasWgt</class>
+ <widget class="QWidget" name="GanttCanvasWgt" >
+  <property name="objectName" >
+   <string notr="true">GanttCanvasWgt</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>400</width>
+	<height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>GanttCanvasWgt</string>
+  </property>  
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources/>
+ <connections/>
+</UI>
