@@ -4,6 +4,7 @@
 #include <QObject>
 #include "datadefine.h"
 #include <QDebug>
+#include <QMutex>
 
 class DataCenterMgr : public QObject
 {
